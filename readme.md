@@ -1,5 +1,5 @@
 README.md content 
-# System Mtric Assessor
+# System Metric Assessor
 
 This Python script analyzes and visualizes system performance metrics including CPU usage, memory utilization, and disk I/O using Python's `psutil` and `matplotlib` libraries.
 
