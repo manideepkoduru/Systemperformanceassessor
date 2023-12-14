@@ -47,7 +47,7 @@ class SystemPerformanceAnalyzer:
         plt.show()
 
 
-# Example usage
+# Example Usage
 if __name__ == "__main__":
     analyzer = SystemPerformanceAnalyzer()
 
